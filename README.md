@@ -31,8 +31,8 @@ A full-stack travel booking application inspired by MakeMyTrip. TripNest allows 
 
 ```text
 TripNest-Java/
-├── TripNest_Backend/       # Spring Boot API (rename to match your folder)
-├── TripNest_Frontend/      # React application (rename to match your folder)
+├── TripNest_Backend/       # Spring Boot API
+├── TripNest_Frontend/      # React application
 ├── screenshots/
 └── README.md
 ```
